@@ -6,6 +6,11 @@
   height: 200px;
 }
 
+.Gambar1:hover {
+  transition: 750ms;
+  height: 300px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
