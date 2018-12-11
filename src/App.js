@@ -37,7 +37,7 @@ class App extends Component {
           </table>
           <h1 color="red" /*ini kok dikasih merah ndak merah yaa? salah sintaks mungkin...*/>masih mencari tahu caranya,....</h1>
           <h1> Catatan tambahan: </h1>
-          <h3> Jadwal sholat kan setiap harinya berbeda-beda kadang beda beberapa menit saja sih. berdasarkan apanya juga masih belum tau karena ada hitungan-hitungannya. bagaimana cara setiap harinya otomatis jadwal itu berganti?</h3>
+          <h3> Jadwal sholat kan setiap harinya berbeda-beda kadang beda beberapa menit saja sih. berdasarkan apanya juga masih belum tau karena ada hitungan-hitungannya. bagaimana cara setiap harinya otomatis jadwal itu berganti? + setap wilayah kan jadwal sholatnya berbeda-beda, gimana secara otomatis bisa ngecek lagi buka internet dimana lalu langsung nunjukin, "ini lhoo jadwal sholat di daerahmu sekaran!" hmmm....</h3>
         </header>
       </div>
     );
